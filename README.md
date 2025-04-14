@@ -35,3 +35,7 @@ FastFlow Library: For providing a robust shared memory parallel framework.
 MPI Community: For the scalable distributed computing tools.
 Developed as part of the SPM Parallel and Distributed Paradigm exam.
 
+
+
+
+Skills: Parallel Programming (FastFlow & MPI) · Distributed Systems · High Performance Computing (HPC) · Performance Optimization · C/C++ Programming.
